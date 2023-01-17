@@ -8,5 +8,4 @@ string number = Console.ReadLine();
 int num = Convert.ToInt32(number);
 int b=num/10%10;
 
-
     Console.Write(b);
